@@ -1,14 +1,18 @@
-# p209-Final-ASP-Project
+﻿# p209-Final-ASP-Project
 
-### Project Description
+### Project Completed
 
-Final layihəsi olaraq bir mebel alış-satış saytı yazacaqsınız. Dizayn hazır olmadığından başlanğıc üçün istənilən bir şablon üzərində işləmək olar. Texniki tapşırıqda aşağıdakılar yazılmışdır:
+Proyektdə istənilən hər şey əlavə olundu.
 
-- Əsas məlumatlar
-  - Mebellər yalnız admin tərəfindən yüklənəcək. Admin öz səhifəsindən daxil olaraq mebellərin tam CRUD-unu edə bilməlidir. 
-  - Mebelin adı, kateqoriyası (qonaq otağı, mətbəx, yataq otağı və s.), qiyməti, bir neçə şəkli olmalıdır. Mebelin detalları səhifəsində mebel haqqında bütün məlumatlar görsənməlidir.
-  - İstifadəçilər olacaq. İstifadəçilərin favorites siyahısı olmalıdır. İstifadəçi hər hansı məhsulun üzərindəki "Add to favorites" düyməsinə click etdikdə, həmin məhsul istifadəçinin favorites siyahısına əlavə olunmalıdır. Bu düymə toggle məntiqində olmalıdır, bir daha click-də siyahıdan çıxmalıdır.
-  - İstifadəçi öz profilinə daxil ola bilməli və şəxsi məlumatlarını update edə bilməlidir.
-  - Bundan başqa səhifədə olan content (About, Contact, ana səhifədə olacaq bəzi məlumatlar) admin tərəfindən dəyişilə bilməlidir.
+- Mebellər admin tərəfindən yüklənir.
+- Seed yaranandan sonra admin əlavə edin zəhmət olmasa seed admini yarada bilmədim vaxtım çatmadı.
+- Mebellərin hər biri üçün istənilən qədər şəkil əlavə oluna bilir. Təbii ki dropzonela :)
+- İstifadəçilər istənilən item favorite edə bilir.
+- WishListlərinə baxa bilir.
+
+
+## Səhifədə bəzi yerlərdə front səhvləri ola bilər onlara fikir vermiyin. :) 
+
+Bu arada 2 gün 3 saata proyekti qurtarmışam haaa :D
 
 ### Deadline: 10.04.2019 23:59.
